@@ -1,1 +1,6 @@
 #!/usr/bin/env ruby
+
+board = [" ", " ", " ", " ", " ", " ", " ", " "," "]
+puts "Welcoome to tic tac toe!"
+display_board(board)
+
